@@ -1,0 +1,16 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suporte
+    url: https://github.com/PlataformaGalleriaMellonella/NOME_REPOSITORIO/discussions
+    about: Se você precisar de suporte, visite nossa página de discussões.
+issue_templates:
+  - name: Reportar Bug
+    description: Use este template para relatar um bug.
+    labels: [bug]
+    title: "[BUG] "
+    body: .github/ISSUE_TEMPLATE/bug_report.md
+  - name: Solicitar Funcionalidade
+    description: Use este template para sugerir uma nova funcionalidade.
+    labels: [enhancement]
+    title: "[FEATURE] "
+    body: .github/ISSUE_TEMPLATE/feature_request.md
