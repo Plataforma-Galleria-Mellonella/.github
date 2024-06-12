@@ -8,12 +8,12 @@ assignees: ''
 
 ### Descrição da Nova Funcionalidade
 
-_Uma descrição clara e concisa da nova funcionalidade que você gostaria de sugerir._
+Uma descrição clara e concisa da nova funcionalidade que você gostaria de sugerir.
 
 ### Essa funcionalidade está relacionada a um problema? Descreva.
 
-_Uma descrição clara e concisa do problema ou limitação que essa funcionalidade resolveria._
+Uma descrição clara e concisa do problema ou limitação que essa funcionalidade resolveria.
 
 ### Informações Adicionais
 
-_Adicione qualquer informação adicional ou capturas de tela sobre a nova funcionalidade aqui._
+Adicione qualquer informação adicional ou capturas de tela sobre a nova funcionalidade aqui.

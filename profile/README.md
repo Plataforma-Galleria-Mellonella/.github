@@ -1,5 +1,7 @@
 # Plataforma Galleria Mellonella
 
+![Galleria Mellonella](../media/icon.png)
+
 Somos uma plataforma dedicada à promoção e disseminação do conhecimento sobre a Galleria mellonella, um invertebrado amplamente utilizado em pesquisas científicas. Nossa equipe é composta por docentes, discentes, pesquisadores e especialistas apaixonados por essa fascinante larva.
 
 ## Missão

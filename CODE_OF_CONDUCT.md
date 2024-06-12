@@ -35,4 +35,4 @@ Este Código de Conduta se aplica tanto dentro dos espaços do projeto quanto em
 
 Instâncias de comportamento abusivo, assediador ou de outra forma inaceitável podem ser comunicadas contatando a equipe do projeto em [marcelo.silva979@gmail.com](mailto:marcelo.silva979@gmail.com). Todas as reclamações serão revistas e investigadas e resultarão em uma resposta considerada necessária e apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Mais detalhes sobre políticas de execução podem ser postados separadamente.
 
-Os mantenedores do projeto que não seguem ou aplicam o Código de Conduta de boa fé podem enfrentar reperc
+Os mantenedores do projeto que não seguem ou aplicam o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes determinadas por outros membros da liderança do projeto.

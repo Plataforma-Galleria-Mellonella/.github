@@ -8,18 +8,18 @@ assignees: ''
 
 ### Descrição do Problema
 
-_Uma descrição clara e concisa do que é o bug._
+Uma descrição clara e concisa do que é o bug.
 
 ### Passos para Reproduzir
 
-_Passos para reproduzir o comportamento_
+Passos para reproduzir o comportamento
 
 
 ### Comportamento Esperado
 
-_Uma descrição clara e concisa do que você esperava que acontecesse._
+Uma descrição clara e concisa do que você esperava que acontecesse.
 
 
 ### Informações Adicionais
 
-_Adicione qualquer informação adicional ou capturas de tela sobre o problema aqui._
+Adicione qualquer informação adicional ou capturas de tela sobre o problema aqui.
