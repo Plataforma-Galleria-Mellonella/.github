@@ -1,7 +1,7 @@
 ---
 name: 🚀 Nova funcionalidade
 about: Sugira uma ideia para este projeto
-title: "[FEATURE] "
+title: ""
 labels: enhancement
 assignees: ''
 ---
