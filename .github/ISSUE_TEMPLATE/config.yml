@@ -7,10 +7,10 @@ issue_templates:
   - name: Reportar Bug
     description: Use este template para relatar um bug.
     labels: [bug]
-    title: "[BUG] "
+    title: ""
     body: .github/ISSUE_TEMPLATE/bug_report.md
   - name: Solicitar Funcionalidade
     description: Use este template para sugerir uma nova funcionalidade.
     labels: [enhancement]
-    title: "[FEATURE] "
+    title: ""
     body: .github/ISSUE_TEMPLATE/feature_request.md
